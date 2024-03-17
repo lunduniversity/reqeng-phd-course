@@ -4,8 +4,6 @@ This repo contains open resources for the graduate course in Requirements Engine
 
 * See the [2024](https://github.com/lunduniversity/reqeng-phd-course/tree/main/2024) dir for the latest course instance.
 
-* Work-in-progress text book: https://github.com/bjornregnell/reqeng-book
-
 * Related under-graduate RE course: https://cs.lth.se/krav/
 
 * Closed resources (only for users at cs.lth.se):  [here](https://coursegit.cs.lth.se/bjorn.regnell/reqeng-phd-course-project)
