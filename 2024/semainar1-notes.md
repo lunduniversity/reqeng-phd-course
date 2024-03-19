@@ -51,5 +51,10 @@
 
 * Around 16:15 Prioritization: continue browsing slides and discuss.
 
-* At 16:45 lates: Discuss plan for Seminar 2.
+* At 16:45 lates: Discuss plan for Seminar 2. Preparation:
+  1. Read Lauesen Chapters on specification of Functional Requirements (FR): 2 (Data), 3 & 4 (Logic), 5 (Special Interfaces). Read iteratively, first iteration: grey boxes
+  
+  2. PROTO1: Bjarnason, E., Lang, F., & Mjöberg, A. "An empirically based model of software prototyping: a mapping study and a multi-case study." Empirical Software Engineering, 28(5), 115. (2023)
+
+  3. PROTO2. Bjarnason, Elizabeth, "Prototyping practices in software startups: Initial case study results", IEEE 29th International Requirements Engineering Conference Workshops (REW). 2021
 
