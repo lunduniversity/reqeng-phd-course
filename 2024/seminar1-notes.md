@@ -19,8 +19,8 @@
     * Learn RE terminology in-depth
     * Acquire practical RE skills
     * Get acquainted with the RE research front
-    * Connect your RE leraning with your PhD Thesis project
-  * Requirements (examination):
+    * Connect your RE learning with your PhD Thesis project
+  * Requirements (examination): 7.5p
     * Prepare seminars
     * Actively engage in seminar discussions
     * Define and conduct an individual project 
@@ -33,7 +33,7 @@
     * Individual literature search -> reading list -> report
     * Project + presentation + optional report (conducted individual or in pairs, examined by supervisor)
 
-* Elicitation: Bring up discussion while we browse the [slides](https://github.com/lunduniversity/reqeng-phd-course/blob/main/2024/seminar1-slides.pdf) 
+* Context: Bring up discussion while we browse the [slides](https://github.com/lunduniversity/reqeng-phd-course/blob/main/2024/seminar1-slides.pdf) 
   * Consider:
      1. Understanding/interpretation of terminology, unclear things
      2. Connection to your research interests
