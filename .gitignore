@@ -1,0 +1,4 @@
+**/target
+**/.vscode
+**/.scala-build
+**/metals.sbt
