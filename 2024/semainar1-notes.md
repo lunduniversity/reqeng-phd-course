@@ -4,8 +4,8 @@
 
 1. Read this before the seminar: 
 * Lauesen Chapter 1. Introduction, Chapter 8. Elicitation
-* PROTO1:
-* PROTO2: 
+* PRIO: Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer, Berlin, Heidelberg, 2005. 69-94. ISBN 3-540-25043-3, 2005.
+* MDRE: Regnell, Björn, and Sjaak Brinkkemper. "Market-driven requirements engineering for software products." Engineering and managing software requirements. Springer, Berlin, Heidelberg, ISBN 3-540-25043- 32005. pp. 287-308.
 
 2. Prepare 4 discussion items. 
   * The 4 discussion items that you prepare can be anything that you want to raise at the seminar, e.g. something unclear, something related other things you have read or know about, a question to me about how this can be interpreted, critique of the text, etc. It is not a big deal, but more a way for us to have an interesting intellectual discussion.
