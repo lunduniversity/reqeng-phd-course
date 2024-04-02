@@ -16,9 +16,9 @@
 
 * Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 
-  1. Round-robin with one discussion item each.
+  * Round-robin with one discussion item each.
 
-  2. Discuss [slides](https://github.com/lunduniversity/reqeng-phd-course/blob/main/2024/seminar2-slides.pdf) while bringing up more discussion items.
+  * Discuss [slides](https://github.com/lunduniversity/reqeng-phd-course/blob/main/2024/seminar2-slides.pdf) while bringing up more discussion items.
 
 * Preparations for Seminar 3: Lau:6,7, 9,10, QUPER, RP
   * Quality Requirements
