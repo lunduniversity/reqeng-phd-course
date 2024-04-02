@@ -4,7 +4,12 @@
 
 ### Read this before the seminar: 
 
-  * Lauesen Chapter 2. , 3., 4. , 5. 
+  * Lauesen chapters:  
+    * 2. Data requirement styles
+    * 3. Functional requirement styles, 
+    * 4. Functional details
+    * 5. Special interfaces – combined styles
+
   * PROTO1: Bjarnason, E., Lang, F., & Mjöberg, A. "An empirically based model of software prototyping: a mapping study and a multi-case study." Empirical Software Engineering, 28(5), 115. (2023)
   * (PROTO2): Bjarnason, Elizabeth, "Prototyping practices in software startups: Initial case study results", IEEE 29th International Requirements Engineering Conference Workshops (REW). 2021
 
