@@ -39,9 +39,18 @@ Seminar 4: Special Domains and Contexts
 
 * *Regulatory requirements:* Taka a look at each of these two EU regulations, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
 
-  * GDPR: https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en)   
+  * GDPR: 
+    * https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en 
 
-  * AI Act: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/excellence-and-trust-artificial-intelligence_en#documents
+  * AI Act: 
+    * The final version that was voted on by the EU parliament March 2024:
+https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.pdf
+    * Some relevant articles in the AI Act to focus on: 
+      * High-risk AI requirements: Articles 9–15, 17, 72
+      * Transparency obligations (mostly relevant for generative AI): Article 50
+      * General purpose AI requirements (e.g. for ChatGPT): Articles 53, 55
+    * All AI Act documents (a huge mass...): 
+      * https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/excellence-and-trust-artificial-intelligence_en#documents
 
 
 * SMIRK: Take a look here and try to formulate what is special with this domain from a requirements engineering perspective: https://github.com/RI-SE/smirk/tree/main/docs
