@@ -26,16 +26,26 @@
 
   * Discuss [slides](https://github.com/lunduniversity/reqeng-phd-course/blob/main/2024/seminar3-slides.pdf) while bringing up more discussion items.
 
+  * Here is the greedy release planning example: 
+    * https://gist.github.com/bjornregnell/80897de5b109f36c1b7ae29f43e4aa7b
+
+  * Here is the talk on QUPER from Öredev:
+    * https://youtu.be/mdiBpDwciC0 
+
 ## Preparations for next seminar 
 
 Seminar 4: Special Domains and Contexts
 
-* AGRE: Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
+* Prepare discussion items on these papers:
+  * AGRE: Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
 
-* OSSRE Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. 
+  * OSSRE: Scacchi is the first paper on OSSRE (ever?) but probably a bit outdated. Linåker talks about a companies strateies in relation OSSRE.
+    * Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. 
+    * Linåker
 
 * RE4AI: Each participant selects one paper that you want to read that no other participant reads and get ok on the paper from Bjorn via email. Starting-point for your search of an interesting paper:
 [Sadovski, Aviv, Hadar. "Towards a Comprehensive Ontology for Requirements Engineering for AI-powered Systems" Refsq 2024.](https://coursegit.cs.lth.se/bjorn.regnell/reqeng-phd-course-project/-/tree/main/papers?ref_type=heads)
+  * Summarize it during the seminar on max 5 min.
 
 * *Regulatory requirements:* Taka a look at each of these two EU regulations, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
 
@@ -53,4 +63,4 @@ https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.pdf
       * https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/excellence-and-trust-artificial-intelligence_en#documents
 
 
-* SMIRK: Take a look here and try to formulate what is special with this domain from a requirements engineering perspective: https://github.com/RI-SE/smirk/tree/main/docs
+* SMIRK: Take a look here and try to formulate what is special with this domain from a requirements engineering perspective that you are interested in: https://github.com/RI-SE/smirk/tree/main/docs
