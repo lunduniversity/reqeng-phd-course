@@ -34,7 +34,7 @@ Seminar 4: Special Domains and Contexts
 
 * OSSRE Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. 
 
-* RE4AI: Each participant selects one paper that you want to read that no other participant reads and get ok on the paper from Bjorn via email. Starting-point for a search of an interesting paper:
+* RE4AI: Each participant selects one paper that you want to read that no other participant reads and get ok on the paper from Bjorn via email. Starting-point for your search of an interesting paper:
 [Sadovski, Aviv, Hadar. "Towards a Comprehensive Ontology for Requirements Engineering for AI-powered Systems" Refsq 2024.](https://coursegit.cs.lth.se/bjorn.regnell/reqeng-phd-course-project/-/tree/main/papers?ref_type=heads)
 
 * *Regulatory requirements:* Taka a look at each of these two EU regulations, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
