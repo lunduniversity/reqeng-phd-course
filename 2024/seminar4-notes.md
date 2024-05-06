@@ -7,7 +7,7 @@ Selected domains and contexts: Agile RE, Open-Source RE, Regulatory Requirements
 * Prepare discussion items on these papers:
   * AGRE: Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
 
-  * OSSRE: Scacchi is the first paper on OSSRE (ever?) but probably a bit outdated. Linåker talks about a companies strateies in relation to OSSRE.
+  * OSSRE: Scacchi is the first paper on OSSRE (ever?) but probably a bit outdated. The Linåker paper focuses on strategies of organisations in relation to OSSRE.
     * Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. 
     * [Linåker, Regnell. "What to share, when, and where: balancing the objectives and complexities of open source software contributions"](https://link.springer.com/content/pdf/10.1007/s10664-020-09855-2.pdf) 
 
