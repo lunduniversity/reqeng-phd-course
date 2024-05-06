@@ -23,7 +23,7 @@ Selected domains and contexts: Agile RE, Open-Source RE, Regulatory Requirements
     * **Konstantin**: 
       * Belani, H., Vukovic, M. and Car, Z. (2019) ‘Requirements Engineering Challenges in Building AI-Based Complex Systems’, 2019 IEEE 27th International Requirements Engineering Conference Workshops (REW), Requirements Engineering Conference Workshops (REW), 2019 IEEE 27th International.
     
-    * Further reading, a recent systematic mapping study on RE4AI:
+    * Further optional reading, a recent systematic mapping study on RE4AI:
       * Ahmad, K., Abdelrazek, M., Arora, C., Bano, M., and Grundy, J.: Requirements engineering for artificial intelligence systems: A systematic mapping study. Information and Software Technology, vol. 158 (2023).
 
 * *Regulatory requirements:* Taka a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
