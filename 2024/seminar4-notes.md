@@ -63,7 +63,7 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 
 ## Preparations for Seminar 5
   
-* Labs with reqT: modeling, prioritization, release planning
+* Prepare labs with reqT: modeling, prioritization, release planning
   * Rushali, John, Konstantin: skim read lab instruction and reqT tutorial (old version 3)
   * Matthias prepares a summary and discussion of lessens learned from lab supervision of MSc students. What did the students do? What did the students learn? WHat to think about as a supervisor of the RE labs?
   * Björn gives intro to the new version 4 of reqT with a new metamodel eDSL for Scala 3 and help you prepare you to do the labs post seminar.
