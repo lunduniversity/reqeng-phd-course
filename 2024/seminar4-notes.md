@@ -62,11 +62,10 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 
 
 ## Preparations for Seminar 5
-  
-* Prepare labs with reqT: modeling, prioritization, release planning
-  * Rushali, John, Konstantin: skim read lab instruction and reqT tutorial (old version 3)
-  * Matthias prepares a summary and discussion of lessens learned from lab supervision of MSc students. What did the students do? What did the students learn? WHat to think about as a supervisor of the RE labs?
-  * Björn gives intro to the new version 4 of reqT with a new metamodel eDSL for Scala 3 and help you prepare you to do the labs post seminar.
+
+### Course Project
+
+* Talk to your supervisor on course project 
 
 * Present your course project plan:
   * goals
@@ -74,6 +73,22 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
   * methodology
   * bonus: give a proposal for how reqT could be used to support your project
 
+
+### RE Tools
+
+* Preparations for labs on tooling for modeling, prioritization, release planning. Read these tooling papers on reqT before the seminar, available for download [here under file names starting with "regnell-"](https://coursegit.cs.lth.se/bjorn.regnell/cs-project-course-reqeng/-/tree/main/papers): 
+
+  1. Regnell, Björn. "Reqt. org–towards a semi-formal, open and scalable requirements modeling tool." Requirements Engineering: Foundation for Software Quality: 19th International Working Conference, REFSQ 2013, Essen, Germany, April 8-11, 2013. Proceedings 19. Springer Berlin Heidelberg, 2013.
+  2. Regnell, Björn. "What is essential?–A pilot survey on views about the requirements metamodel of reqT. org." Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference, REFSQ 2016, Gothenburg, Sweden, March 14-17, 2016, Proceedings 22. Springer International Publishing, 2016.
+  3. Regnell, Björn, and Krzysztof Kuchcinski. "A scala embedded DSL for combinatorial optimization in software requirements engineering." First Workshop on Domain Specific Languages in Combinatorial Optimization. 2013.
+  4. Regnell, Björn, and Krzysztof Kuchcinski. "Exploring software product management decision problems with constraint solving-opportunities for prioritization and release planning." 2011 Fifth International Workshop on Software Product Management (IWSPM). IEEE, 2011.
+
+* Matthias prepares a short summary on lessens learned from lab supervision of MSc students. What did the students do? What did the students learn? What to think about as a supervisor of the RE labs?
+
+* Björn prepares intro to RE tools and the new version 4 of reqT with a new metamodel eDSL for Scala 3 and help you prepare for the labs post seminar.
+
+
+## After last seminar 
 * **After** seminar 5 at your own time planning:
   * do reqT labs: 
     * Matthias, Björn: helps on-demand in Zoom or at office with reqT 
