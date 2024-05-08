@@ -48,7 +48,7 @@ https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.pdf
 
 Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 
-1. Discuss AGRE and OSSR, slides [here]()
+1. Discuss AGRE and OSSR, slides [here](https://github.com/lunduniversity/reqeng-phd-course/tree/main/2024)
 
 2. Summarize and discuss your selected RE4AI-papers (see preparations): 
   * Run order: Ruishali, John, Mattias, Konstantin. 
