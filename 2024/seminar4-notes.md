@@ -76,7 +76,7 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 
 ### RE Tools
 
-* Preparations for labs on tooling for modeling, prioritization, release planning. Read these tooling papers on reqT before the seminar, available for download [here under file names starting with "regnell-"](https://coursegit.cs.lth.se/bjorn.regnell/cs-project-course-reqeng/-/tree/main/papers): 
+* Preparations for labs on tooling for modeling, prioritization, release planning. Read these tooling papers on reqT before the seminar, available for download [here in dir reqT-papers](https://coursegit.cs.lth.se/bjorn.regnell/cs-project-course-reqeng/-/tree/main/papers/reqt-papers): 
 
   1. Regnell, Björn. "Reqt. org–towards a semi-formal, open and scalable requirements modeling tool." Requirements Engineering: Foundation for Software Quality: 19th International Working Conference, REFSQ 2013, Essen, Germany, April 8-11, 2013. Proceedings 19. Springer Berlin Heidelberg, 2013.
   2. Regnell, Björn. "What is essential?–A pilot survey on views about the requirements metamodel of reqT. org." Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference, REFSQ 2016, Gothenburg, Sweden, March 14-17, 2016, Proceedings 22. Springer International Publishing, 2016.
