@@ -26,7 +26,7 @@ Selected domains and contexts: Agile RE, Open-Source RE, Regulatory Requirements
     * Further optional reading, a recent systematic mapping study on RE4AI:
       * Ahmad, K., Abdelrazek, M., Arora, C., Bano, M., and Grundy, J.: Requirements engineering for artificial intelligence systems: A systematic mapping study. Information and Software Technology, vol. 158 (2023).
 
-* *Regulatory requirements:* Taka a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
+* *Regulatory requirements:* Take a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
 
   * GDPR: 
     * https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en 
@@ -54,16 +54,29 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
   * Run order: Ruishali, John, Mattias, Konstantin. 
   * Bonus: Systematic mapping study by Ahmad et al.
 
+5. Discussion on preparations for Seminar 5, see below.
+
+**THESE ITEMS WERE POSTPONED DUE TO LACK OF TIME:**
+We will take them att seminar 5.
+
 3. Discussions on regulatory requirements: GDPR, AI Act.
 
 4. Discussion on SMIRK and High-Assurance Systems.
 
-5. Discussion on preparations for Seminar 5, see below.
 
 
 ## Preparations for Seminar 5
 
-### Course Project
+### Left over from Seminar 4:
+
+1. Take a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant. 
+
+    Then, update your file with your name suffix [here]() with your regulatory requirements. Before you update read the others that may have been updated before you. Try to make it different from the others if yours is very similar to the one that was given before you. 
+
+2. Take alook at [SMIRK](https://github.com/RI-SE/smirk/tree/main/docs). Then update your file with your name suffix [here]() with your reflection on SMIRK and what is special with this domain from a requirements engineering perspective that you are interested in. 
+
+
+### Define your Course Project
 
 * Talk to your supervisor on course project 
 
@@ -74,9 +87,9 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
   * bonus: give a proposal for how reqT could be used to support your project
 
 
-### RE Tools
+### Background on reqT labs
 
-* Preparations for labs on tooling for modeling, prioritization, release planning. Read these tooling papers on reqT before the seminar, available for download [here in dir reqT-papers](https://coursegit.cs.lth.se/bjorn.regnell/cs-project-course-reqeng/-/tree/main/papers/reqt-papers), in priority order: 
+* Preparations for labs on tooling for modeling, prioritization, release planning. Read these tooling papers on reqT before the seminar, available for download [here in dir reqT-papers](https://coursegit.cs.lth.se/bjorn.regnell/cs-project-course-reqeng/-/tree/main/papers/reqt-papers), in priority order (you can skim read papers 3&4, note the year of papers to get the cronology): 
 
   1. Regnell, Björn. "reqT.org – towards a semi-formal, open and scalable requirements modeling tool." Requirements Engineering: Foundation for Software Quality: 19th International Working Conference, REFSQ 2013, Essen, Germany, April 8-11, 2013. Proceedings 19. Springer Berlin Heidelberg, 2013.
   2. Regnell, Björn. "What is essential?–A pilot survey on views about the requirements metamodel of reqT. org." Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference, REFSQ 2016, Gothenburg, Sweden, March 14-17, 2016, Proceedings 22. Springer International Publishing, 2016.
@@ -88,8 +101,9 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 * Björn prepares intro to RE tools and the new version 4 of reqT with a new metamodel eDSL for Scala 3 and help you prepare for the labs post seminar.
 
 
-## After last seminar 
-* **After** seminar 5 at your own time planning:
+## After seminar 5
+
+* Do this **after** seminar 5 at your own time planning:
   * do reqT labs: 
     * Matthias, Björn: helps on-demand in Zoom or at office with reqT 
     * Rushali, John, Konstantin: 
@@ -99,3 +113,18 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
     * email your course project plan to Björn and supervisors: 
     * talk to your supervisor on how to assess your project result
     * do your course project according to plan agreed with supervisor
+
+
+### Credits after examination: Total 7.5 hp
+
+The theory part comprises 4 hp
+* preparation and participation in seminars and reading Lauesen and all papers included for each seminar  (approx 3.5hp)
+* doing the reqT labs             (approx 0.5hp)
+
+The practical part comprises 3.5 hp
+* defining your course project in dialog with your supervisor
+* presenting your course project plan on seminar 5
+* carrying out your course project 
+* examination of course project by your supervisor
+* presenting your course project (e.g. report/seminar/tool demo etc)
+
