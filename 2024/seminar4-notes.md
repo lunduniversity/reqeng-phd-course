@@ -73,7 +73,7 @@ We will take them att seminar 5.
 
     Then, update your file with your name suffix [here]() with your regulatory requirements. Before you update read the others that may have been updated before you. Try to make it different from the others if yours is very similar to the one that was given before you. 
 
-2. Take alook at [SMIRK](https://github.com/RI-SE/smirk/tree/main/docs). Then update your file with your name suffix [here]() with your reflection on SMIRK and what is special with this domain from a requirements engineering perspective that you are interested in. 
+2. Take alook at [SMIRK](https://github.com/RI-SE/smirk/tree/main/docs). Then update your file with your name suffix [here](https://coursegit.cs.lth.se/bjorn.regnell/reqeng-phd-course-project/-/tree/main/2024) with your reflection on SMIRK and what is special with this domain from a requirements engineering perspective that you are interested in. 
 
 
 ### Define your Course Project
