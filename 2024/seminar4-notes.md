@@ -26,7 +26,7 @@ Selected domains and contexts: Agile RE, Open-Source RE, Regulatory Requirements
     * Further optional reading, a recent systematic mapping study on RE4AI:
       * Ahmad, K., Abdelrazek, M., Arora, C., Bano, M., and Grundy, J.: Requirements engineering for artificial intelligence systems: A systematic mapping study. Information and Software Technology, vol. 158 (2023).
 
-* *Regulatory requirements:* Taka a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant.
+* *Regulatory requirements:* Taka a look at each of these two EU regulations, GDPR and AI Act, and for each of them: propose concrete examples of one **data** requirements, one **business logic** requirement and one **quality** requirements implied by these legislations. Choose a concrete hypothetical or real app or domain for which your proposed requirements are relevant. Document this here: ()
 
   * GDPR: 
     * https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en 
@@ -51,7 +51,7 @@ Time plan: 13:15-17; leg stretcher around 14, 16; longer break around 15.
 1. Discuss AGRE and OSSR, slides [here](https://github.com/lunduniversity/reqeng-phd-course/tree/main/2024)
 
 2. Summarize and discuss your selected RE4AI-papers (see preparations): 
-  * Run order: Ruishali, John, Mattias, Konstantin. 
+  * Run order: Rushali, John, Matthias, Konstantin. 
   * Bonus: Systematic mapping study by Ahmad et al.
 
 3. Discussions on regulatory requirements: GDPR, AI Act.
