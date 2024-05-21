@@ -3,3 +3,6 @@
 **/.scala-build
 **/metals.sbt
 **/.*lock*.odp#
+**/.bsp
+**/.metals
+
