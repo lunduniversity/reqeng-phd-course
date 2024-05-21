@@ -1,2 +1,3 @@
 scala-cli run .
-xdg-open target/out.pdf
+cp target/out.pdf ../reqTv4-ideas.pdf
+xdg-open ../reqTv4-ideas.pdf

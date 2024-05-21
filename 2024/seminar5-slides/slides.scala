@@ -80,7 +80,6 @@ def slides = document("Next Gen RE Teaching for Next Gen Devs"):
       p("""Regnell, Björn. **''What is essential? -- A pilot survey on views about the requirements metamodel of reqT''**. Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference, REFSQ 2016, Gothenburg, Sweden, March 14-17, 2016, Proceedings 22. Springer International Publishing, 2016.""")
       p("""Regnell, Björn, and Krzysztof Kuchcinski. **''A scala embedded DSL for combinatorial optimization in software requirements engineering''**. First Workshop on Domain Specific Languages in Combinatorial Optimization. 2013.""")
       p("""Regnell, Björn, and Krzysztof Kuchcinski. **''Exploring software product management decision problems with constraint solving-opportunities for prioritization and release planning''**. 2011 Fifth International Workshop on Software Product Management (IWSPM). IEEE, 2011.""")
-      p("Download latest reqT.jar: https://github.com/reqT/reqT/releases")
       p("On-going work on the 4.x branch:  https://github.com/reqT/reqT/tree/4.x")
       p("Download concept definitions:  https://github.com/reqT/reqT-lang/releases/download/v4.2.0/concepts-GENERATED.csv")
 
